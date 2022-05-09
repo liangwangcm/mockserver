@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "status": 200,
+  "message": "List of airlines",
+  "result": [
+    {
+      "airline": "Aegean Airlines",
+      "iata_code": "A3"
+    },
+    {
+      "airline": "Aer Lingus",
+      "iata_code": "EI"
+    },
+    {
+      "airline": "Aeroflot",
+      "iata_code": "SU"
+    },
+    {
+      "airline": "Aerolíneas Argentinas",
+      "iata_code": "AR"
+    }
+  ]
+}
